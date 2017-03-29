@@ -1,0 +1,25 @@
+{
+    "brands" :
+    [
+        {
+            "name" : "Levis",
+            "items" : "Apparels, Shoes",
+            "details" : "Levis details"
+        },
+        {
+            "name" : "Woodlands",
+            "items" : "Shoes",
+            "details" : "Woodlands details"
+        },
+        {
+            "name" : "Samsung",
+            "items" : "Mobile Phones, Cameras, TV",
+            "details" : "Samsung details"
+        },
+        {
+            "name" : "Apple",
+            "items" : "iPhone, iPad, MacBook",
+            "details" : "Apple details"
+        }
+    ]
+}

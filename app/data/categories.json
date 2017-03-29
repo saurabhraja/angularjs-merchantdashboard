@@ -1,0 +1,21 @@
+{
+    "categories" :
+    [
+        {
+            "id" : "CAT001",
+            "name" : "Apparels"
+        },
+        {
+            "id" : "CAT002",
+            "name" : "Shoes"
+        },
+        {
+            "id" : "CAT003",
+            "name" : "Mobile Phones"
+        },
+        {
+            "id" : "CAT004",
+            "name" : "Jewelery"
+        }
+    ]
+}

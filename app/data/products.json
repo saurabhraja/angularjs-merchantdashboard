@@ -1,0 +1,61 @@
+{
+    "products" :
+    [
+        {
+            "id" : "PROD001",
+            "type" : "Shirt",
+            "name" : "Levis blue formal",
+            "brand" : "Levis",
+            "price" : 750
+        },
+        {
+            "id" : "PROD002",
+            "type" : "Saree",
+            "name" : "Jk wedding saree",
+            "brand" : "Jayalakshmi",
+            "price" : 1240
+        },
+        {
+            "id" : "PROD003",
+            "type" : "Suit",
+            "name" : "Raymond gray suit",
+            "brand" : "Raymond",
+            "price" : 2700
+        },
+        {
+            "id" : "PROD004",
+            "type" : "Shoe",
+            "name" : "Woodlands green shoe",
+            "brand" : "Woodlands",
+            "price" : 1860
+        },
+        {
+            "id" : "PROD005",
+            "type" : "Mobile Phone",
+            "name" : "Apple iPhone 7s",
+            "brand" : "Apple",
+            "price" : 750000
+        },
+        {
+            "id" : "PROD006",
+            "type" : "Watch",
+            "name" : "Fastrack digital watch",
+            "brand" : "Fastrack",
+            "price" : 1540
+        },
+        {
+            "id" : "PROD007",
+            "type" : "Television",
+            "name" : "Samsung color TV 27 inches",
+            "brand" : "Samsung",
+            "price" : 25000
+        },
+        {
+            "id" : "PROD008",
+            "type" : "Tablet",
+            "name" : "Apple iPad 2",
+            "brand" : "Apple",
+            "price" : 18000
+        }
+    ]
+}

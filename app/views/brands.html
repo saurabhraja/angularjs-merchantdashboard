@@ -1,0 +1,19 @@
+<div class="row heading">Brands</div>
+<div>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Brand Name</th>
+        <th>Brand Items</th>
+        <th>Brand Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat = "brand in brands">
+	<td>{{brand.name}}</td>
+	<td>{{brand.items}}</td>
+	<td>{{brand.details}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

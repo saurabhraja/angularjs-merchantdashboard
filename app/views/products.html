@@ -1,0 +1,23 @@
+<div class="row heading">Products</div>
+<div>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Product ID</th>
+        <th>Product Type</th>
+        <th>Product Name</th>
+	<th>Brand</th>
+        <th>Price</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="pointer" ng-repeat = "product in products" ng-click="purchase(product)">
+        <td>{{product.id}}</td>
+        <td>{{product.type}}</td>
+        <td>{{product.name}}</td>
+        <td>{{product.brand}}</td>
+        <td>{{product.price}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
