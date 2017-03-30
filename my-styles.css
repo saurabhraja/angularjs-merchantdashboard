@@ -1,0 +1,24 @@
+.heading {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 2%;
+    margin-left: 0px !important;
+}
+
+.pageHeading {
+    background-color: dodgerblue;
+    color: black !important;
+    font-weight: bold;
+}
+
+.active {
+    color: red; 
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.overflow-auto {
+    overflow: auto;
+}
